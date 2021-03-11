@@ -1,5 +1,5 @@
 
-VIRUSTOTAL:
+#VIRUSTOTAL:
 
 After recovering different types of malware on the "any run" platform, we wanted to try to analyze them via VirusTotal.
 As a reminder, VirusTotal is a website that analyzes suspicious files and facilitates the quick detection of viruses, worms, trojans and all kinds of malware detected by antivirus engines.

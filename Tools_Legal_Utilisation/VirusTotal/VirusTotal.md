@@ -1,5 +1,4 @@
   
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/VT1.PNG)
 
 VIRUSTOTAL:
 Après avoir récupéré différents types de malware sur la plateforme “any run”, nous avons voulu essayer d’analyser ces derniers via VirusTotal.
@@ -43,7 +42,7 @@ graphe de relation du malware :
 --debut--
 
 Here is an overview of the VirusTotal analysis:
-
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/VT1.PNG)
 
 The selected samples are in the following formats: pdf, .exe, .bin, .xlsm, .ace
 Analysis of a file : 
@@ -51,7 +50,7 @@ type: .exe
 malware type : Troyan
 Number of antivirus which detected : 59/71
 Graph of relation of malware:
-
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/VT2.PNG)
 
 --fin--
 

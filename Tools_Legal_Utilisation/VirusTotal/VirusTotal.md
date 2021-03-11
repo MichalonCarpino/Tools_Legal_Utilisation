@@ -1,5 +1,5 @@
   
-![image](Tools_Legal_Utilisation/VirusTotal/images/VT1.PNG)
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/VT1.PNG)
 
 VIRUSTOTAL:
 Après avoir récupéré différents types de malware sur la plateforme “any run”, nous avons voulu essayer d’analyser ces derniers via VirusTotal.

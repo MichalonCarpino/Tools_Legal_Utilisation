@@ -20,12 +20,12 @@ Thanks to this we can have access to data in a legal way:
 
 ![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG)
 
---> Location: city, country
---> Environment Os
---> Hostname
---> Services
---> Open ports
---> Organization
+- Location: city, country
+- Environment Os
+- Hostname
+- Services
+- Open ports
+- Organization
 
 
 

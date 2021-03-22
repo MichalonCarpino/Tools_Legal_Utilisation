@@ -25,7 +25,7 @@ For example we can use a search by:
 - By Os: "os:''Windows''"
 
 <p align="center">
-  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG?raw=true" width="450" height="300" />  
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG?raw=true"  />  
   
 </p>
 
@@ -52,13 +52,13 @@ You can generate reports related to a search (filters)
 by pressing the "Create Report" button
 
 <p align="center">
-  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG?raw=true" width="450" height="300" />  
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG?raw=true" />  
   
 </p>
 
 result of the report :
 <p align="center">
-  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG?raw=true" width="450" height="300" />  
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG?raw=true" width="550" height="300" />  
   
 </p>
 

@@ -5,17 +5,14 @@ For example we can use a search by:
 
 - By town: "city Paris"
 
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO2.PNG)
 
 
 - By ports : "port:23,1023"
 
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO3.PNG)
 
 
 - By Os: "os:''Windows''"
 
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO4.PNG)
 
 
 Thanks to this we can have access to data in a legal way:
@@ -37,8 +34,8 @@ reports, containing graphs and very interesting statistics.
 You can generate reports related to a search (filters)
 by pressing the "Create Report" button
 
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG)
+result of the report :
 
-
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG)
 
 

@@ -38,4 +38,3 @@ result of the report :
 
 ![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG)
 
-

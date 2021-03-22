@@ -3,7 +3,7 @@
 <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/tools.PNG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-The purpose of this git is to start referencing legal sites/ APIs/ tools and to see how far their use remains legal / legitimate. This is a school work as part of the Master in Information Systems Security and
+The purpose of this GIT is to start referencing legal sites/ APIs/ tools and to see how far their use remains legal / legitimate. This is a school work as part of the Master in Information Systems Security and...
 
 Here are referenced:
 
@@ -12,7 +12,7 @@ Here are referenced:
     ONYPHE
     VIRUSTOTAL
     
-As a continuation of this work, other sites which could not be analyzed here also have their place in this GIT as:
+As a continuation of this work, other sites/ APIs/ tools which could not be analyzed here also have their place in this GIT as:
 
     METASPLOIT
     ETTERCAP

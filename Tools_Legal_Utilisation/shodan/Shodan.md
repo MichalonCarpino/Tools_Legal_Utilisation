@@ -15,24 +15,24 @@ For example we can use a search by:
 
 
 
-Grâce à ceci nous pouvons avoir accès à des données de manière légale:
-
+Thanks to this we can have access to data in a legal way:
 
 
 ![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG)
 
-
---> La localisation : ville, pays
---> Environnement Os
+--> Location: city, country
+--> Environment Os
 --> Hostname
---> Les Services
---> Les ports ouverts
---> Organisation
+--> Services
+--> Open ports
+--> Organization
 
 
-Shodan permet aussi de pouvoir générer des rapports extrêmement
-détaillés, contenant des graphs et des statistiques très intéressantes.
-Vous pouvez générer des rapports relatifs à une recherche (des filtres)
-en appuyant sur le bouton "Create Report"
+
+Shodan also allows you to generate extremely detailed reports
+reports, containing graphs and very interesting statistics.
+You can generate reports related to a search (filters)
+by pressing the "Create Report" button
+
 
 

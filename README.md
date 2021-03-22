@@ -7,7 +7,7 @@ The purpose of this git is to start referencing legal sites/ APIs/ tools and to 
 
 Here are referenced:
 
-    AIL
+    AIL  (Following a mishandling we lost our work on this element) 
     SHODAN
     ONYPHE
     VIRUSTOTAL

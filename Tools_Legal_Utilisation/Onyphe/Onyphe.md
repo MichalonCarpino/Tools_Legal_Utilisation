@@ -15,3 +15,8 @@ it can be used directly with the web browser....
   <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/ON3.PNG?raw=true" />  
   
 </p>
+
+
+First, onyphe makes it possible to know which informations are accessible directly and indirectly from everywere, more or less easily. There is a lot of results and the analysis can get long and tedious. To use these informations effectively, others tools will have to be used, but these exploits may be illegitimates and therefore illegals. Let's highlight  that an entity can do those kind of researchs towards itself; however, it's no sure that this is still legal if this same entity does the same types of researchs towards another distinct entity.
+
+

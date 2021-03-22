@@ -4,7 +4,5 @@
 
 <p align="center">
   <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/ON1.PNG?raw=true" width="700" height="500" />
-  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/ON2.PNG?raw=true" width="700" height="600" />
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/ON2.PNG?raw=true" width="700" height="500" />
 </p>
-
-

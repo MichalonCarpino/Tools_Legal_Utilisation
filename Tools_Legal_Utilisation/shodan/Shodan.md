@@ -62,4 +62,4 @@ result of the report :
   
 </p>
 
-
+To use these informations effectively, others tools will have to be used, but these exploits may be illegitimates and therefore illegals. Let's highlight that an entity can do those kind of researchs towards itself; however, it's no sure that this is still legal if this same entity does the same types of researchs towards another distinct entity.

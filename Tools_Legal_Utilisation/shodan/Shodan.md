@@ -31,9 +31,11 @@ For example we can use a search by:
 
 
 Thanks to this we can have access to data in a legal way:
+<p align="center">
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG" />  
+  
+</p>
 
-
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO1.PNG)
 
 - Location: city, country
 - Environment Os
@@ -48,10 +50,16 @@ Shodan also allows you to generate extremely detailed reports
 reports, containing graphs and very interesting statistics.
 You can generate reports related to a search (filters)
 by pressing the "Create Report" button
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG)
 
+<p align="center">
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG?raw=true" width="450" height="300" />  
+  
+</p>
 
 result of the report :
+<p align="center">
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG?raw=true" width="450" height="300" />  
+  
+</p>
 
-![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHOreport.PNG)
 

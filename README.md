@@ -14,9 +14,13 @@ Here are referenced:
     
 As a continuation of this work, other sites which could not be analyzed here also have their place in this GIT as:
 
-    MISP
     METASPLOIT
     ETTERCAP
-    GOOGLE DORKS
+    GOOGLE DORKS  https://www.exploit-db.com/google-hacking-database
     ThaHarvester 
+    mnemonic
+    Threat Note  https://github.com/defpoint/threat_note
+    YETI  https://yeti-platform.github.io/
+    Munin  https://github.com/Neo23x0/munin
+    MISP  http://www.misp-project.org/index.html
     ...

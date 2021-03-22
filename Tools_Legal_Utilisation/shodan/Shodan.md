@@ -33,6 +33,8 @@ Shodan also allows you to generate extremely detailed reports
 reports, containing graphs and very interesting statistics.
 You can generate reports related to a search (filters)
 by pressing the "Create Report" button
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO5.PNG)
+
 
 result of the report :
 

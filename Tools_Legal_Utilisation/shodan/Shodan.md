@@ -1,3 +1,5 @@
+# Shodan
+
 Shodan is a kind of search engine that allows you to search for devices connected to the internet as well as particular information about websites, such as the type of programs used by certain systems and anonymous local FTP servers. You can employ Shodan the same way you use Google, but it indexes information based on active content like banners, which are metadata that servers return to hosting clients. To get the best possible results, the Shodan search engine should be run using a series of string filters
 
 The most common way of using it is by using a filter.
@@ -5,6 +7,10 @@ For example we can use a search by:
 
 - By town: "city Paris"
 
+<p align="center">
+  <img src="https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO2.PNG?raw=true" width="450" height="300" />  
+  
+</p>
 ![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO2.PNG)
 
 

@@ -5,13 +5,16 @@ For example we can use a search by:
 
 - By town: "city Paris"
 
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO2.PNG)
 
 
 - By ports : "port:23,1023"
 
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO3.PNG)
 
 
 - By Os: "os:''Windows''"
+![image](https://github.com/MichalonCarpino/Tools_Legal_Utilisation/blob/main/Tools_Legal_Utilisation/images/SHO4.PNG)
 
 
 
